@@ -1,4 +1,4 @@
-const { fullName } = require("./names");
+const fullName = require("./names");
 
 console.log(fullName("Louis", "Serra"));
 
@@ -12,6 +12,11 @@ console.log(fullName("Louis", "Serra"));
 2. Esporta la funzione dal file.
 */
 
+
+
+const hobbies = require("./hobbies");
+
+console.log(hobbies("Calcio", "Fumetti", "Videogames"));
 
 /*
 3 - people.js
