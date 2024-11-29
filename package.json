@@ -1,9 +1,9 @@
 {
   "name": "commonjs-modules",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "names.js",
   "scripts": {
-    "start": "node name.js",
+    "start": "node app.js",
     "dev": "node --watch app.js"
   },
   "author": "",
