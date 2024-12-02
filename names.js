@@ -4,7 +4,7 @@
 */
 
 function fullName(firstName, lastName) {
-    return { firstName: firstName, lastName: lastName }
+    return { firstName, lastName }
 };
 
 
